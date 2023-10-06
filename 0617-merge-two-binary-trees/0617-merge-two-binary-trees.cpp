@@ -24,4 +24,4 @@ public:
     }
 };
 //two  binary tree root are given root 1 and root 2
-// we have to overlap the trees in such a way that  
+// we have to overlap the trees in such a way that if two node overlap on each other then add their value else print the combination of both tree . 
